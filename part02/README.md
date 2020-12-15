@@ -31,7 +31,9 @@ Math.min(...arr)
 ```
 - 四、请详细说明 var, let, const 三种声明变量的方式之间的具体差别
 
-   | var | let | const
+
+
+| var | let | const
 -------- | ----- | ----- | ------
 语法 | var a =1 | let a = 1 | const a = 1
 变量提升 | 声明提升使用undefined初始化 | 仅声明提升，未初始化 | 仅声明提升，未初始化

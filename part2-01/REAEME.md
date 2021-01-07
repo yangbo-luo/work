@@ -21,3 +21,5 @@
 这样一来，就会出现，当我们去搭建新项目时有大量的重复工作要做，脚手架工具就是去用来解决这一问题的。我们可以通过脚手架工具去快速搭建特定类型的项目骨架，基于这个骨架完成后续的开发工作。
 - 三、编程题
 1.尝试使用 Gulp 完成项目的自动化构建
+***
+链接[pages-boilerplate](https://github.com/yangbo-luo/work/tree/master/pages-boilerplate)
